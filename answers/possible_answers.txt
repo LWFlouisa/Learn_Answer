@@ -1,1 +1,10 @@
-placeholder
+black
+white
+grey
+red
+blue
+green
+yellow
+orange
+purple
+brown
